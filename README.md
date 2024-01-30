@@ -14,12 +14,6 @@ Make sure you have the following installed:
 - [Postman](https://www.postman.com/downloads/)
 - [Redis](https://github.com/microsoftarchive/redis/releases/tag/win-3.0.504)
 
-## Setting up Redis
-
-1. **Run Redis Server:**
-   - Locate `redis-server.exe` in your Redis Folder.
-   - Double-click on `redis-server.exe` to start the Redis server.
-
 ## Third-Party Apps
 
 - Postman: Used for mining blocks by making POST requests to `http://localhost:3000/api/mine`.
@@ -43,7 +37,7 @@ Make sure you have the following installed:
    ```
 
 2. Run the Redis server:
-   - Locate `redis-server.exe` in your Redis installation directory.
+   - Locate `redis-server.exe` in your Redis directory.
    - Double-click on `redis-server.exe` to start the Redis server.
 
 3. Run the server:
